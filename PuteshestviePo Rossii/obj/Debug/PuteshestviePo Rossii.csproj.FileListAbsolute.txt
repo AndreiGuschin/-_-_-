@@ -1,0 +1,30 @@
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.csproj.AssemblyReference.cache
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.csproj.SuggestedBindingRedirects.cache
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\MainWindow.g.cs
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\App.g.cs
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii_Content.g.cs
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii_MarkupCompile.cache
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii_MarkupCompile.lref
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\PuteshestviePo Rossii.exe.config
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\PuteshestviePo Rossii.exe
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\PuteshestviePo Rossii.pdb
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\EntityFramework.dll
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\EntityFramework.xml
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\MainWindow.baml
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.g.resources
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo_Rossii.Properties.Resources.resources
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.csproj.GenerateResource.cache
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.csproj.CoreCompileInputs.cache
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.csproj.CopyComplete
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.exe
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\PuteshestviePo Rossii.pdb
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\Windows\HotelWindow.g.cs
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\Windows\HotelWindow.baml
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\Windows\EditHotelInfoWindow.g.cs
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\Windows\EditHotelInfoWindow.baml
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\Windows\AddHotelWindow.g.cs
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\Windows\AddHotelWindow.baml
+C:\Users\11-2\Desktop\3 курс Экзамен\PuteshestviePo Rossii\PuteshestviePo Rossii\obj\Debug\App.baml
